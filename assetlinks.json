@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.sta.stamobileapp",
+    "sha256_cert_fingerprints":
+    ["B7:AE:7E:E0:48:8C:FF:48:82:A9:64:4C:59:2B:65:88:CF:30:AB:1A:EE:EA:B7:AB:E3:9D:15:78:16:20:2C:D3"]
+  }
+}]
